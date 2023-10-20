@@ -1,4 +1,4 @@
-## Ferramenta de Pressão Política
+## Ferramenta de Pressão Política / Political Pressure Tool
 
 🗳️ 🙅‍♀️ Uma ferramenta de pressão política criada para a campanha da Frente pelo Avanço dos Direitos Políticos das Mulheres. Escrito em HTML e JavaScript, o programa dispara e-mails para os deputados do estado.
 
